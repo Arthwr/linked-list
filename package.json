@@ -1,0 +1,12 @@
+{
+  "name": "linked-list",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Representation of linked list data structure in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthur",
+  "license": "ISC"
+}
